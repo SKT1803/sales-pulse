@@ -80,7 +80,7 @@ siparişleri time stampı suan sadece tarihi tutuyor, saat, dakika eklenebilir.
   </tr>
    <tr>
     <td><img src="images/5.png" width="500"></td>
-    <td><img src="images/5.png" width="500"></td>
+    <td><img src="images/6.png" width="500"></td>
   </tr>
 </table>
 
